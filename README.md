@@ -6,6 +6,7 @@ Projeto final trabalhado durante a Imersão 🌹
 
 - Python
 - Pandas
+- Seaborn
 - Tratamento de Dados
 - Gráficos
 - Time Series
