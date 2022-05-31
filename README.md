@@ -9,6 +9,5 @@ Projeto final trabalhado durante a Imersão 🌹
 - Seaborn
 - Tratamento de Dados
 - Gráficos
-- Time Series
 - Análise Exploratória
 - Machine Learning
